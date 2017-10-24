@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  take the ad away~~
 // @author       tasi788
-// @match        https://acgn-stock.com/
+// @match        https://acgn-stock.com/*
 // @grant        none
 // ==/UserScript==
 
